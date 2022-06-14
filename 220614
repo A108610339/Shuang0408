@@ -1,0 +1,5 @@
+C:\Users\MyName>git --version 
+git version  2.22.0.windows.1
+
+C:\Users\MyName>git config --global user.name "你的名字" 
+C:\Users\MyName>git config --global user.email "和你的信箱"
